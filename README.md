@@ -29,13 +29,13 @@ high-risk departments, and salary compression patterns.
 
 ## 📊 Dashboard Pages
 ### Page 1 — Overview
-![Overview](screenshots/page1_overview.png)
+![Overview](screenshots/page1_overview.png.png)
 
 ### Page 2 — Department Drill-down
-![Drilldown](screenshots/page2_department_drilldown.png)
+![Drilldown](screenshots/page2_department_drilldown.png.png)
 
 ### Page 3 — Risk Profile (with RLS)
-![Risk](screenshots/page3_risk_profile.png)
+![Risk](screenshots/page3_risk_profile.png.png)
 
 ## 🗄️ SQL Queries
 | File | Analysis |
